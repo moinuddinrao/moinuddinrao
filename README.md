@@ -36,7 +36,7 @@ Hi there! 👋 My name is Moin ud din and I am a Software Engineer. I did a Bach
 
 ## 📊 Github Stats
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Moin ud din's GitHub Stats"
+    <a href="https://github.com/moinuddinrao/github-readme-stats"><img alt="Moin ud din's GitHub Stats"
             src="https://github-readme-stats.vercel.app/api?username=moinuddinrao&show_icons=true&count_private=true&theme=algolia"
             height="192px" /></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moinuddinrao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
