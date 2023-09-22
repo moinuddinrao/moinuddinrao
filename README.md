@@ -14,9 +14,6 @@ Hi there! 👋 My name is Moin ud din and I am a Software Engineer. I did a Bach
     </a>
 </p>
 
-## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=[moinuddinrao]&theme=algolia" alt="[moinuddinrao]" /></p>
-
 ## 🛠️ My Skills
 
 ### Languages
