@@ -1,7 +1,7 @@
-<h1 align="center">Hey , I'm Moin ud din <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there 👋, I'm Moin ud din <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 I am a Software Engineer. I did a Bachelor in Computer Science from Air University, Islamabad. My passion lies in solving problems and creating innovative solutions. I work great in groups and always try to learn from my peers.
+I am a Software Engineer. I did a Bachelor in Computer Science from Air University, Islamabad. My passion lies in solving problems and creating innovative solutions. I work great in groups and always try to learn from my peers.
 
 ## 👯 Connect with me
 <p>
