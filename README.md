@@ -16,17 +16,11 @@ I am a Software Engineer. I have a Bachelor in Computer Science from Air Univers
 
 ## 🛠️ My Skills
 
-### Languages
-- JavaScript
-- Python
-
-### Frontend Development
 - HTML
 - CSS
+- JavaScript
 - ReactJS
-
-### Backend Development
-- Node.js
-- Express.JS
+- NodeJS
+- ExpressJS
 - MongoDB
 - PostgreSQL
